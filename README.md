@@ -1,1 +1,2 @@
-# cookies_landing
+Проект сайта-лендинг для магазина по продаже печенья.
+Деплой проекта https://eva71879.github.io/cookies_landing/
